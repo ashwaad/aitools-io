@@ -1,5 +1,5 @@
 
-const API_KEY = "PASTE_DEEPAI_KEY_HERE";
+const API_KEY = "affdb7d4-bdf4-4d75-8a8a-cd695cb30790";
 
 async function process(endpoint){
   const input=document.getElementById("file");
