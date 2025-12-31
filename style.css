@@ -1,0 +1,8 @@
+
+body{margin:0;font-family:Arial;background:#0b0f1a;color:#fff;text-align:center}
+header{padding:40px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;padding:40px}
+a{background:#151c33;color:#fff;padding:25px;border-radius:16px;text-decoration:none}
+.upload{margin:40px auto;max-width:600px;background:#151c33;padding:30px;border-radius:16px}
+button{padding:12px 20px;border:0;border-radius:12px;background:#5ef2ff;font-weight:bold}
+img{max-width:100%;margin-top:20px;border-radius:12px}
